@@ -1,0 +1,11 @@
+store_id,store_name,store_city,store_region,opening_date
+S001,Store S001,Delhi,North,2016-02-29
+S002,Store S002,Chennai,South,2018-11-22
+S003,Store S003,Bengaluru,South,2022-04-24
+S004,Store S004,Bhubaneswar,East,2015-10-09
+S005,Store S005,Pune,West,2017-10-03
+S006,Store S006,Pune,West,2020-01-21
+S007,Store S007,Kolkata,East,2019-01-18
+S008,Store S008,Bhubaneswar,East,2018-04-14
+S009,Store S009,Kolkata,East,2018-03-29
+S010,Store S010,Kolkata,East,2021-01-20
