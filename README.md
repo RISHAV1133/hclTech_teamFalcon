@@ -148,6 +148,7 @@ A summary report is generated:
 - Prevents incorrect revenue reporting  
 - Enables reliable analytics and decision-making  
 - Provides full auditability of invalid data  
+<img width="2914" height="1627" alt="image" src="https://github.com/user-attachments/assets/11c2c760-f0b6-49ae-a607-1d1c2efa18ec" />
 
 ---
 
